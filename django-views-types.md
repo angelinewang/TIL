@@ -1,7 +1,7 @@
 #### Function-Based Views
 ##### Purpose
 = More control over what happens inside the view
---> Compared to using *Class-Based Views
+--> Compared to using *Class-Based Views*
 
 ##### Application
 = Using Decorators
