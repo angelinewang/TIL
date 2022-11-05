@@ -16,4 +16,4 @@
 ```
 
 ##### Documentation 
-(Glossary of Methods Available)[https://cdrf.co]
+[Glossary of Methods Available](https://cdrf.co)
