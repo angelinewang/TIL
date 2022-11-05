@@ -1,3 +1,7 @@
+WHen you get off of `sqlite3`...
+
+To connect to postgres database:
+
 Inside `settings.py`, ensure that database user and password is added:
 ```
 DATABASES = {
