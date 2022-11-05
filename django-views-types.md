@@ -14,3 +14,6 @@
     serializer = TweetSerializer(tweets, many=True)
     return Response(serializer.data)
 ```
+
+##### Documentation 
+(What happens behind the scenes?)[cdrf.co]
