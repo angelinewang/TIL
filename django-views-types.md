@@ -16,4 +16,4 @@
 ```
 
 ##### Documentation 
-(What happens behind the scenes?)[cdrf.co]
+(Glossary of Methods Available)[https://cdrf.co]
