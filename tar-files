@@ -1,0 +1,11 @@
+AKA tarball
+Definition:
+Computer software utility 
+--> For collecting many files into one archive file
+
+Purpose:
+Distribution or backup of data 
+
+Origin of name:
+Tape archive
+--> Originally developed to write data to sequential I/O devices w/ no file system of their own
