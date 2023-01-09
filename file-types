@@ -1,3 +1,4 @@
+## tar
 AKA tarball
 Definition:
 Computer software utility 
@@ -9,3 +10,15 @@ Distribution or backup of data
 Origin of name:
 Tape archive
 --> Originally developed to write data to sequential I/O devices w/ no file system of their own
+
+## yaml
+Definition:
+Data serialization language 
+
+Purpose:
+Used for writing configuration files
+--> For data being stored or transmitted
+
+Design Goal:
+Provide a good human-readable format 
+--> Provide support for serializing arbitary native data structures
